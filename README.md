@@ -7,7 +7,7 @@ I wrote this manual like a reminder for my own purposes mostly, when I need to s
 ## Table of Contents
 - [Environment](#environment)
 - - [iTerm2](#iterm2)
-- - - [Use `option + arrow left / right` in terminal for navigating](#arrows-navigation)
+- - - [Fix option arrow](#arrows-navigation)
 - - - [Restore iTerms2 tabs after restart](#restore-tabs)
 - - [Xcode dev tools](#xcode-dev-tools)
 - - [nvm](#nvm)
@@ -20,12 +20,14 @@ I wrote this manual like a reminder for my own purposes mostly, when I need to s
 ### iTerm2 <a name="iterm2" />
 https://iterm2.com/downloads.html
 
-#### Use `option + arrow left / right` in terminal for navigating <a name="arrows-navigation" />
+#### Fix option arrow <a name="arrows-navigation" />
+https://www.clairecodes.com/blog/2018-10-15-making-the-alt-key-work-in-iterm2/
 
 #### Restore iTerms2 tabs after restart <a name="restore-tabs" />
 I prefer to use MacOS system function "Close windows when closing documents".
 Just uncheck this in Settings => General
 It affects all apps, but it's convinient anyway.
+It's recommended way - https://iterm2.com/documentation-restoration.html
 
 More details
 https://appuals.com/how-to-stop-your-macos-from-reopening-apps-after-a-reboot-or-a-crash/
