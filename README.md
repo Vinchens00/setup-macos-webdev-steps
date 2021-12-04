@@ -26,7 +26,10 @@ https://iterm2.com/downloads.html
 
 ### nvm <a name="nvm" />
 
-Don't forget to add required env variables to ~/.zshrc to make it available for new terminal sessions
+[Install nvm script](https://github.com/nvm-sh/nvm#install--update-script)
+
+Don't forget to add required env variables to ~/.zshrc to make it available for new terminal sessions.
+Necessary exports can be find on the link above.
 
 ### node <a name="node" />
 use LTS version as default
@@ -34,6 +37,9 @@ use LTS version as default
 `nvm install v16`
 
 ### yarn <a name="yarn" />
+For yarn 1.x.x
+
+`npm install --global yarn`
 
 ### Add autocomplete to git <a name="git-autocomplete" />
 
