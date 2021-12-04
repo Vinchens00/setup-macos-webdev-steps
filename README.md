@@ -14,6 +14,7 @@ I wrote this manual like a reminder for my own purposes mostly, when I need to s
 - - [node](#node)
 - - [yarn](#yarn)
 - - [git autocomplete](#git-autocomplete)
+- - [use nano for git](#git-nano)
 
 
 ## Environment <a name="environment" />
@@ -53,4 +54,8 @@ For yarn 1.x.x
 `npm install --global yarn`
 
 ### Add autocomplete to git <a name="git-autocomplete" />
+https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/
+
+### Use nano for git <a name="git-nano" />
+`git config --global core.editor "nano"`
 
