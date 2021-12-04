@@ -8,6 +8,7 @@ I wrote this manual like a reminder for my own purposes mostly, when I need to s
 - [Environment](#environment)
 - - [iTerm2](#iterm2)
 - - - [Use `option + arrow left / right` in terminal for navigating](#arrows-navigation)
+- - - [Restore iTerms2 tabs after restart](#restore-tabs)
 - - [Xcode dev tools](#xcode-dev-tools)
 - - [nvm](#nvm)
 - - [node](#node)
@@ -20,6 +21,14 @@ I wrote this manual like a reminder for my own purposes mostly, when I need to s
 https://iterm2.com/downloads.html
 
 #### Use `option + arrow left / right` in terminal for navigating <a name="arrows-navigation" />
+
+#### Restore iTerms2 tabs after restart <a name="restore-tabs" />
+I prefer to use MacOS system function "Close windows when closing documents".
+Just uncheck this in Settings => General
+It affects all apps, but it's convinient anyway.
+
+More details
+https://appuals.com/how-to-stop-your-macos-from-reopening-apps-after-a-reboot-or-a-crash/
 
 ### Xcode dev tools <a name="xcode-dev-tools" />
 `xcode-select –install`
@@ -42,5 +51,4 @@ For yarn 1.x.x
 `npm install --global yarn`
 
 ### Add autocomplete to git <a name="git-autocomplete" />
-
 
